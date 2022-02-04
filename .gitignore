@@ -1,5 +1,5 @@
 # Ignore Raw Data Folder
-Raw Data/
+Raw_Data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
