@@ -1,3 +1,6 @@
+# Ignore Raw Data Folder
+Raw Data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
